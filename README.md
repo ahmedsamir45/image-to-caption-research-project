@@ -38,7 +38,5 @@ git switch backend
 
 [GitHub Repo](https://github.com/ahmedsamir45/image-to-caption-research-project)
 
-```
 
-Let me know if you'd like to include setup steps, model details, architecture diagrams, or screenshots.
-```
+
